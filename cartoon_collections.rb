@@ -4,7 +4,13 @@ def roll_call_dwarves(array)
   fourdwarves = ["Doc","Dopey","Bashful", "Grumpy"]
   i = 0 
   while i < array.length 
-  
+    puts "#{i + 1}. #{array[i]}"
+    i += 1 
+  end 
+end
+
+roll_call_dwarves(dwarves)
+
 end
 binding.pry 
 def summon_captain_planet# code an argument here
