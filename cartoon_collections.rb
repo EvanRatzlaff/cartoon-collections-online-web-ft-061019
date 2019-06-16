@@ -9,10 +9,10 @@ def roll_call_dwarves(array)
   end 
 end
 
-roll_call_dwarves(dwarves)
+def roll_call_dwarves(dwarves)
 
 end
-binding.pry 
+
 def summon_captain_planet# code an argument here
   # Your code here
 end
