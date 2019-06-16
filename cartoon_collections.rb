@@ -3,7 +3,8 @@ require "pry"
 def roll_call_dwarves(array)
   fourdwarves = ["Doc","Dopey","Bashful", "Grumpy"]
   i = 0 
-  while 
+  while i < array.length 
+  
 end
 binding.pry 
 def summon_captain_planet# code an argument here
